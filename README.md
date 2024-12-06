@@ -1,4 +1,3 @@
-
 # Hola, mi nombre es Teo    
 
 Desarrollador de software con 2 años de experiencia, orientado al desarrollo frontend tanto en aplicaciones móviles 
