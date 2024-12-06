@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**demattei-teo/demattei-teo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, mi nombre es Teo    
 
-Here are some ideas to get you started:
+Desarrollador de software con 2 años de experiencia, orientado al desarrollo frontend tanto en aplicaciones móviles 
+como en páginas web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![App Screenshot](https://res.cloudinary.com/dadpdkkq9/image/upload/v1733510876/banner_h5rv40.png)
+
+
+## Tecnologías 
+
+ Next.js
+ •
+ Tailwind Css
+ •
+ React.js
+ •
+ TypeScript
+ •
+ JavaScript
+ •
+ Sass
+ •
+ Supabase
+ •
+ Express.js
+ •
+ PostgreSQL
+ •
+ Docker
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-demattei-teo.vercel.app/) 
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teodemattei/)
+
+
